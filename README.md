@@ -1,4 +1,5 @@
 > [**Multispectral Semantic Segmentation for UAVs: A Benchmark Dataset and Baseline**]()  
+
 > Qiusheng Li1 Hang Yuan1 Tianning Fu1 Zhibin Yu1,2,† Bing Zheng1,2 Shuguo Chen2
 
 1College of Electronic Engineering,Ocean University of China
@@ -25,7 +26,6 @@ Solidago canadensis L. is a typical invasive plant that has become a significant
 
 ## Update
 
-
 - **2025.2.22:** The UAVM dataset has been published.
 
 - Dataset is aviable at https://pan.baidu.com/s/1WeXbhfWURbxv7A7E1Ayn6Q. Exreaction code:8mmr
@@ -35,11 +35,11 @@ Solidago canadensis L. is a typical invasive plant that has become a significant
   ## Citation
   
   ```
-@article{li2024multispectral,
+  @article{li2024multispectral,
   title={Multispectral Semantic Segmentation for UAVs: A Benchmark Dataset and Baseline},
   author={Li, Qiusheng and Yuan, Hang and Fu, Tianning and Yu, Zhibin and Zheng, Bing and Chen, Shuguo},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
   year={2024},
   publisher={IEEE}
-}
+  }
   ```
